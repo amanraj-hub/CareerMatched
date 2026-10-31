@@ -1,14 +1,15 @@
-# Render Blueprint: deploy the FastAPI app and provision PostgreSQL.
-# The web service serves the built React app and the /api/v1 API from one origin.
+
+# Render Blueprint: TalentLoop AI
+
 services:
   - type: web
     name: talentloop-ai
     runtime: python
     region: oregon
     plan: free
-   buildCommand: >-
-  pip install --no-cache-dir -r backend/requirements.txt psycopg2-binary==2.9.10 &&
-  cd frontend && npm ci && npm run build
+    buildCommand: >-
+      pip install --no-cache-dir -r backend/requirements.txt psycopg2-binary==2.9.10 &&
+      cd frontend && npm ci && npm run build
     startCommand: cd backend && uvicorn app.main:app --host 0.0.0.0 --port $PORT
     healthCheckPath: /health
     autoDeploy: true
@@ -24,11 +25,9 @@ services:
       - key: UPLOAD_DIR
         value: /opt/render/project/src/backend/uploads
 
-# Render-managed PostgreSQL keeps user accounts and application records
-# across web-service restarts/deploys. This database is a paid resource.
 databases:
   - name: talentloop-db
     databaseName: talentloop
     user: talentloop_user
     region: oregon
-    plan: free
+    plan: basic-free
