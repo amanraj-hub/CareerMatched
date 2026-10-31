@@ -30,4 +30,4 @@ databases:
     databaseName: talentloop
     user: talentloop_user
     region: oregon
-    plan: basic-free
+    plan: free
