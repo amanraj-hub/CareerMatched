@@ -1,0 +1,26 @@
+Michael Ross
+michael.ross@cloudnet.io | +1 206-882-9901 | Seattle, WA
+GitHub: https://github.com/mross-devops | LinkedIn: https://linkedin.com/in/michaelross-cloud
+
+PROFESSIONAL SUMMARY
+Senior Cloud & DevOps Engineer with 4 years of experience specializing in Kubernetes infrastructure, Docker containerization, AWS cloud architecture, and automated CI/CD release engineering. Proven track record of zero-downtime deployments.
+
+TECHNICAL SKILLS
+• Cloud & Orchestration: AWS, Docker, Kubernetes, Terraform, Linux, Nginx, Ansible
+• CI/CD & Version Control: Git, GitHub Actions, GitLab, Jenkins, Helm
+• Scripting & Backend: Python, Bash, Shell, PostgreSQL, RESTful APIs
+• Monitoring & Reliability: Prometheus, Grafana, CloudWatch, SRE Best Practices
+
+WORK EXPERIENCE
+Cloud Infrastructure Engineer | ScaleOps Technologies (2022 - Present)
+• Architected multi-cluster Kubernetes deployments on AWS with automated auto-scaling and high availability.
+• Formulated Terraform modules for reproducible infrastructure as code across staging and production.
+• Built CI/CD pipelines reducing deployment turnaround time from 45 minutes to 7 minutes.
+
+DevOps Systems Specialist | BlueSky Media (2020 - 2022)
+• Maintained Linux servers, Docker containers, and Nginx reverse proxies.
+• Configured Prometheus alerts and Grafana dashboards for cluster observability.
+
+EDUCATION
+Bachelor of Science in Information Technology (2016 - 2020)
+University of Washington

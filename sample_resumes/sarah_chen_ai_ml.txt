@@ -1,0 +1,30 @@
+Sarah Chen
+sarah.chen@techmail.com | +1 415-890-1122 | San Francisco, CA
+GitHub: https://github.com/sarahchen-ai | LinkedIn: https://linkedin.com/in/sarahchen-ml
+
+PROFESSIONAL SUMMARY
+Machine Learning & NLP Specialist with 4+ years of hands-on experience developing predictive models, fine-tuning transformers, and building semantic information retrieval engines. Deep technical expertise in Python, PyTorch, Scikit-Learn, Hugging Face, FastAPI, and Docker.
+
+TECHNICAL SKILLS
+• Core AI & Data: Python, Machine Learning, Deep Learning, Natural Language Processing, PyTorch, TensorFlow, Scikit-Learn, Pandas, NumPy, Scipy
+• NLP & Modern AI: Transformers, Hugging Face, LLMs, LangChain, RAG, Tokenizers, Word2Vec
+• Backend & Deployment: FastAPI, RESTful APIs, Docker, Git, Linux, PostgreSQL
+• Methodologies: Cross-Validation, Feature Engineering, Model Interpretability, Agile
+
+WORK EXPERIENCE
+Senior Machine Learning Engineer | Cognition AI Labs (2022 - Present)
+• Fine-tuned transformer models for multi-class semantic text classification achieving 94.2% F1-score.
+• Built low-latency asynchronous model inference APIs using FastAPI and PyTorch with sub-50ms response times.
+• Led data preprocessing pipelines handling millions of documents using Pandas and NumPy.
+• Containerized training and evaluation environments using Docker.
+
+AI Research Engineer | VectorTech Systems (2020 - 2022)
+• Developed semantic search and document retrieval engine using sentence embeddings and cosine similarity.
+• Implemented feature extraction pipelines with Scikit-Learn and automated model hyperparameter tuning.
+
+EDUCATION
+Master of Science in Artificial Intelligence & Computer Science (2018 - 2020)
+Stanford University | GPA: 3.91 / 4.0
+
+Bachelor of Science in Computer Science (2014 - 2018)
+University of Washington | Magna Cum Laude

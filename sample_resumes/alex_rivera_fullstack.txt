@@ -1,0 +1,34 @@
+Alex Rivera
+alex.rivera@email.com | +1 (555) 234-5678 | San Francisco, CA
+GitHub: https://github.com/alexrivera-dev | LinkedIn: https://linkedin.com/in/alexrivera-tech
+
+PROFESSIONAL SUMMARY
+Dynamic Full-Stack Software Engineer with 3.5+ years of experience designing, architecting, and deploying resilient web applications and microservices. Proven expertise in React, TypeScript, Python, FastAPI, and PostgreSQL. Passionate about clean code, performance optimization, and scalable cloud architectures.
+
+TECHNICAL SKILLS
+• Programming Languages: Python, JavaScript, TypeScript, SQL, HTML5, CSS3, Bash
+• Frontend Technologies: React, Next.js, Redux, Tailwind CSS, Responsive Design, Vite
+• Backend & APIs: FastAPI, Node.js, Express, RESTful APIs, SQLAlchemy, Celery
+• Databases & Caching: PostgreSQL, Redis, MongoDB, SQLite
+• DevOps & Cloud: Docker, Git, GitHub Actions, AWS, Linux, CI/CD
+• Testing & Practices: Pytest, Jest, Unit Testing, Agile, Scrum
+
+WORK EXPERIENCE
+Full-Stack Software Engineer | CloudStream Solutions (2022 - Present)
+• Engineered asynchronous RESTful APIs using FastAPI and PostgreSQL handling 5M+ daily requests.
+• Built modular, type-safe React frontend interfaces with TypeScript and Tailwind CSS.
+• Containerized services using Docker and configured automated CI/CD pipelines via GitHub Actions.
+• Optimized relational database queries with composite indexes, reducing response latency by 35%.
+
+Software Developer Intern | DataPeak Labs (2020 - 2022)
+• Developed responsive web dashboards using React and Express.js.
+• Integrated Redis caching to speed up data retrieval by 40%.
+• Collaborated in sprint planning, code reviews, and automated pytest workflows.
+
+EDUCATION
+Bachelor of Science in Computer Science (2016 - 2020)
+University of California, Berkeley | GPA: 3.82 / 4.0
+
+KEY PROJECTS
+• Distributed Task Queue Service: Built an asynchronous task distribution pipeline in Python and Redis.
+• AI Resume Matcher: Developed a TF-IDF text similarity scoring engine with FastAPI and React.
