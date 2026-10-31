@@ -6,9 +6,9 @@ services:
     runtime: python
     region: oregon
     plan: free
-    buildCommand: >-
-      pip install -r backend/requirements.txt &&
-      cd frontend && npm ci && npm run build
+   buildCommand: >-
+  pip install --no-cache-dir -r backend/requirements.txt psycopg2-binary==2.9.10 &&
+  cd frontend && npm ci && npm run build
     startCommand: cd backend && uvicorn app.main:app --host 0.0.0.0 --port $PORT
     healthCheckPath: /health
     autoDeploy: true
